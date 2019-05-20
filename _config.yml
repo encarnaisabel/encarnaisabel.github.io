@@ -1,15 +1,15 @@
 # Site settings
-title: "Miguel Ángel Abellán"
-description: "Programador por profesión, mentor de programación por vocación."
+title: "Encarna Isabel Gómez Campoy"
+description: "Formada en ingeniería técnica de Obras Públicas, dedicada a la educación secundaria"
 
 # Resume settings
-resume_name: Miguel Ángel Abellán
-resume_title: Desarrollador web
-resume_header_intro: "Programador por profesión, mentor de programación por vocación. Cofundador Iniciativa Programo Ergo Sum, Presidente CoderDojo España, #maker y más cosillas."
+resume_name: Encarna Isabel Gómez Campoy
+resume_title: Profesora de secundaria
+resume_header_intro: "Formada en ingeniería técnica de Obras Públicas, dedicada a la educación secundaria. Profesora de tecnología"
 resume_social:
   github: https://github.com/encarnaisabel
-  twitter: 
-  linkedin: 
+  twitter: https://twitter.com/encarnaisabel
+  linkedin: https://es.linkedin.com/in/encarna-isabel-g%C3%B3mez-campoy-611014a5
 
 # Build settings
 markdown: kramdown
