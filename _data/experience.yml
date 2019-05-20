@@ -1,4 +1,4 @@
-- company: Programador
+- company: Profesora
   position: Freelance
   duration: Mayo, 2009 &mdash; Actualidad
   summary: Desarrollador de aplicaciones web y administrador de sistemas informáticos.
@@ -6,21 +6,3 @@
     - Backend, PHP7 Symfony
     - Frontend, JS Vue.js, Nuxt.js
     - SysAdmin Linux, DevOps
-
-- company: Formador en Programación y Robótica
-  position: Centro de Profesorado y Recursos (CPR Murcia)
-  duration: Octubre, 2015 &mdash; Actualidad
-  summary: Formador de profesorado no universitario de la Consejería de Educación, Juventud y Deportes de centros educativos sostenidos con fondos públicos de la Región de Murcia.
-  items:
-    - Robótica Educativa en Infantil y Primaria
-    - Robótica Educativa en Secundaria
-    - Recursos Educativos mediante la programación de videojuegos
-    - Programación y Robótica para la integración de alumnos con NEE
-    - Gamificación y Programación con Raspberry Pi
-    - Internet de las cosas con Raspberry Pi
-    - Jornadas sobre Programación y Robótica Educativa
-
-- company: Formador en Arduino
-  position: Arduino Education CTC 101
-  duration: Curso 2018 / 2019
-  summary: Formador en Arduino Education para el programa educativo "Clases de Tecnologías Creativas (CTC)" a través del proyecto "Escuela del Pensamiento Computacional" del Ministerio de Educación y Formación Profesional INTEF.
