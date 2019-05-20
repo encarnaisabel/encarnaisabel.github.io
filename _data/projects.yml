@@ -1,23 +1,7 @@
-- project: Programo Ergo Sum
-  role: Cofundador
-  duration: 2015 &mdash; Actualidad
-  description: Iniciativa sin ánimo de lucro que pretende acercar la programación de ordenadores, electrónica, robótica y nuevas tecnologías a todas las edades.
+- project: Proyecto MARES 
+  role: profesora
+  duration: 2018 &mdash; Actualidad
+  description: Proyecto de Centro para el desarrollo de las altas capacidades en el aula.
   items:
-    - <a href="https://www.programoergosum.com" target="_blank">Programo Ergo Sum</a>
-    - <a href="https://www.aprendeprogramando.es" target="_blank">Aprende Programando</a>
-    - <a href="https://wikitic.github.io" target="_blank">Wiki TIC</a>
-
-- project: CoderDojo España
-  role: Presidente
-  duration: 2015 &mdash; Actualidad
-  description: Agrupación informal de dojos o clubes gratuitos de programación activos en territorio español.
-  items:
-    - <a href="http://www.coderdojo.es" target="_blank">CoderDojo España</a>
-
-- project: El Cable Amarillo
-  role: Elaborador del material
-  duration: 2016 &mdash; Actualidad
-  description: Elaborador del material del programa educativo "El Cable Amarillo", proyecto educativo para fomentar el uso de la Programación y Robótica en los centros educativos.
-  items:
-    - <a href="http://www.elcableamarillo.cc" target="_blank">El Cable Amarillo</a>
+    - <a href="https://sanjemares.wordpress.com/" target="_blank">Proyecto MARES IES SANJE</a>
 
