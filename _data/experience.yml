@@ -1,8 +1,25 @@
-- company: Profesora
-  position: Freelance
-  duration: Mayo, 2009 &mdash; Actualidad
-  summary: Desarrollador de aplicaciones web y administrador de sistemas informáticos.
+- company: Consejería de Educación de Murcia
+  position: Profesora
+  duration: Septiembre, 2005 &mdash; Actualidad
+  summary: Profesora de Tecnología
   items:
-    - Backend, PHP7 Symfony
-    - Frontend, JS Vue.js, Nuxt.js
-    - SysAdmin Linux, DevOps
+    - 2006-2007 IES VICENTE MEDINA (Archena)
+    - 2007-2008 IES VILLA DE ABARÁN (Abarán)
+    - 2008-2010 IES DIEGO TORTOSA (Cieza)
+    - 2010-2012 IES FLORIDABLANCA (Murcia)
+    - 2012-2015 IES FELIPE DE BORBÓN (Ceutí)_ Programa Bilingüe de Francés.   
+    - 2015-2016 IES ROMANO GARCÍA (Lorquí) 
+    - 2016-2019 IES SANJE (Alcantarilla)
+
+- company: Incotec Consultores S.L.
+  position: Ingeniera Técnica de Obras Públicas
+  duration: Septiembre, 2003 &mdash; 2005
+  summary: Urbanización, proyectos, accesibilidad
+  items:
+    - 2006-2007 IES VICENTE MEDINA (Archena)
+    - 2007-2008 IES VILLA DE ABARÁN (Abarán)
+    - 2008-2010 IES DIEGO TORTOSA (Cieza)
+    - 2010-2012 IES FLORIDABLANCA (Murcia)
+    - 2012-2015 IES FELIPE DE BORBÓN (Ceutí)_ Programa Bilingüe de Francés.   
+    - 2015-2016 IES ROMANO GARCÍA (Lorquí) 
+    - 2016-2019 IES SANJE (Alcantarilla)
